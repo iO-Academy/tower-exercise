@@ -17,7 +17,7 @@ class PartThreeTest extends TestCase
     public function test_partThree_one(): void
     {
         $result = partThree(1);
-        $expected = ['*'];
+        $expected = ['|'];
 
         $this->assertEquals($expected, $result);
     }
