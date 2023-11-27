@@ -18,7 +18,7 @@ $example = [
 
 Each `*` represents a block in the tower.
 
-This repo comes with a set of unit tests you can use to check the correctness of your solutions.
+This repo comes with a set of unit tests you can use to check the correctness of your solutions. You can also look at the tests to get a better idea as to how your solutions should behave.
 
 ## Part one - getting started
 
